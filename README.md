@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there 👋, Harshit Gupta
+#### I am Coder by choice but Developer by Passion
+![I am Coder by choice but Developer by Passion](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**harshuu01/harshuu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Harshit, a  true embodiment of the modern tech enthusiast who has turned his love for coding into a remarkable journey. Driven by choice and fueled by an unwavering passion for development.......
 
-Here are some ideas to get you started:
+Skills: DSA / HTML / CSS / JS /TAILWIND 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/harshuu01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-gupta-2b4040234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_harshuuu.xx//)  
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
