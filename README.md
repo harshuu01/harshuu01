@@ -12,7 +12,7 @@ Skills: DSA / HTML / CSS / JS /TAILWIND
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/harshuu01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-gupta-2b4040234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_harshuuu.xx//)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-[![An image of @harshuu01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshuu01)](https://holopin.io/@harshuu01)
+(https://holopin.me/harshuu01)](https://holopin.io/@harshuu01)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/harshuu01)](https://github.com/ryo-ma/github-profile-trophy)
 
